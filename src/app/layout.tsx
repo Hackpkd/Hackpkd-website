@@ -73,6 +73,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="scroll-smooth">
       <head>
+        <meta name="google-site-verification" content="4mHK-b7PgCOgz7J5QxaKyI7tp3u5kODAyUeZMo74d6E" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
