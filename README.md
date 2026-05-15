@@ -74,4 +74,4 @@ club lead : A.Adarsh
             Karthik TS
             Thejus R
 
-> Learn. Build. Share. Grow.
+> Learn. Build. Share. Grow. 
