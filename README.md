@@ -1,36 +1,77 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# HackPKD
 
-## Getting Started
+A student-led tech community from Kerala focused on hacking, building, learning, and creating real-world projects together.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 About HackPKD
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+HackPKD is a community-driven hackclub where students, developers, designers, makers, and innovators collaborate on:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Open-source projects
+- Hackathons
+- AI & robotics
+- Web and app development
+- Electronics & hardware
+- Startup ideas
+- Workshops & tech events
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Our goal is to help students learn by building real projects and connecting with other passionate creators.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🌐 Official Links
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Kerala initiative  : https://kerala.hackclub.com/
+- Global Community: https://hackclub.com/
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 💬 Community
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Join our Slack community to connect with members, share projects, and participate in events.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Slack: https://hackclub.com/slack/
+
+---
+
+## 📧 Contact
+
+For collaborations, workshops, partnerships, or general inquiries:
+
+- Email:intheknightriders@gmail.com
+
+
+---
+
+## 🛠️ What We Do
+
+- Build innovative student projects
+- Conduct hackathons and coding events
+- Encourage open-source contributions
+- Support beginners in tech
+- Create collaborative engineering and AI projects
+
+---
+
+## 🌱 Open to Everyone
+
+Whether you're a beginner or an experienced developer, HackPKD welcomes everyone interested in technology and innovation.
+
+---
+
+## 📌 Vision
+
+To create one of Kerala’s strongest student technology communities where young innovators can learn, build, and grow together.
+
+---
+
+## ❤️ Built by Students
+
+HackPKD is powered by passionate students, creators, and builders who love technology and innovation.
+
+club lead : A.Adarsh
+            Karthik TS
+            Thejus R
+
+> Learn. Build. Share. Grow.
