@@ -1,77 +1,154 @@
 # HackPKD
 
-A student-led tech community from Kerala focused on hacking, building, learning, and creating real-world projects together.
+> A student-powered tech community from Kerala building cool projects, learning together, and creating the future with code, AI, robotics, cybersecurity, and open source.
 
 ---
 
-## 🚀 About HackPKD
+## About HackPKD
 
-HackPKD is a community-driven hackclub where students, developers, designers, makers, and innovators collaborate on:
+HackPKD is a community made by students for students.
 
-- Open-source projects
+We started HackPKD to help young developers, creators, innovators, and tech enthusiasts connect, build projects, participate in hackathons, contribute to open source, and learn modern technology together.
+
+Whether you are a beginner or an experienced developer, HackPKD is a place to explore ideas and create something amazing.
+
+---
+
+## What We Do
+
+- Web Development
+- App Development
+- Artificial Intelligence
+- Robotics & Hardware
+- Cybersecurity
+- Open Source Projects
+- Hackathons & Tech Events
+- Student Innovation
+
+---
+
+## Live Website
+
+https://hackpkd.vercel.app/
+
+---
+
+## GitHub Repository
+
+https://github.com/Hackpkd/Hackpkd-website
+
+---
+
+## Tech Stack
+
+```txt
+Frontend   : HTML, CSS, JavaScript
+Framework  : Next.js
+Hosting    : Vercel
+Versioning : Git & GitHub
+```
+
+---
+
+## Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/Hackpkd/Hackpkd-website.git
+```
+
+### Open project folder
+
+```bash
+cd Hackpkd-website
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Run locally
+
+```bash
+npm run dev
+```
+
+---
+
+## Contributing
+
+We welcome contributions from everyone.
+
+You can:
+- Improve the UI
+- Fix bugs
+- Add new features
+- Create pull requests
+- Suggest ideas
+- Help other developers
+
+---
+
+## Community Vision
+
+HackPKD aims to build a strong student developer community where people can:
+- Learn together
+- Build together
+- Grow together
+- Innovate together
+
+We believe students can create real impact with technology.
+
+---
+
+## Team
+
+### Founder
+Adarsh
+
+### Core Members
+Karthik T S  
+Thejus R
+
+### Mentors
+Pravitha  
+Nobel
+
+---
+
+## Future Plans
+
+- Community Events
+- Workshops
+- Open Source Programs
+- Robotics Projects
+- AI Projects
 - Hackathons
-- AI & robotics
-- Web and app development
-- Electronics & hardware
-- Startup ideas
-- Workshops & tech events
-
-Our goal is to help students learn by building real projects and connecting with other passionate creators.
+- Student Collaborations
 
 ---
 
-## 🌐 Official Links
+## Connect With Us
 
-- Kerala initiative  : https://kerala.hackclub.com/
-- Global Community: https://hackclub.com/
+Website:
+https://hackpkd.vercel.app/
 
----
-
-## 💬 Community
-
-Join our Slack community to connect with members, share projects, and participate in events.
-
-- Slack: https://hackclub.com/slack/
+GitHub:
+https://github.com/Hackpkd
 
 ---
 
-## 📧 Contact
+## Support
 
-For collaborations, workshops, partnerships, or general inquiries:
-
-- Email:intheknightriders@gmail.com
-
-
----
-
-## 🛠️ What We Do
-
-- Build innovative student projects
-- Conduct hackathons and coding events
-- Encourage open-source contributions
-- Support beginners in tech
-- Create collaborative engineering and AI projects
+If you like this project, consider:
+- Starring the repository
+- Sharing the project
+- Contributing to HackPKD
 
 ---
 
-## 🌱 Open to Everyone
-
-Whether you're a beginner or an experienced developer, HackPKD welcomes everyone interested in technology and innovation.
-
----
-
-## 📌 Vision
-
-To create one of Kerala’s strongest student technology communities where young innovators can learn, build, and grow together.
-
----
-
-## ❤️ Built by Students
-
-HackPKD is powered by passionate students, creators, and builders who love technology and innovation.
-
-club lead : A.Adarsh
-            Karthik TS
-            Thejus R
-
-> Learn. Build. Share. Grow. 
+# HackPKD  
+### Build • Learn • Innovate
