@@ -108,26 +108,10 @@ We believe students can create real impact with technology.
 
 ### Founder
 Adarsh
-
-### Core Members
-Karthik T S  
+karthik TS
 Thejus R
 
-### Mentors
-Pravitha  
-Nobel
 
----
-
-## Future Plans
-
-- Community Events
-- Workshops
-- Open Source Programs
-- Robotics Projects
-- AI Projects
-- Hackathons
-- Student Collaborations
 
 ---
 
@@ -141,14 +125,7 @@ https://github.com/Hackpkd
 
 ---
 
-## Support
 
-If you like this project, consider:
-- Starring the repository
-- Sharing the project
-- Contributing to HackPKD
-
----
 
 # HackPKD  
 ### Build • Learn • Innovate
